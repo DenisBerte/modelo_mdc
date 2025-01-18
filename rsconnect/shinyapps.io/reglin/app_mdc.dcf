@@ -1,0 +1,10 @@
+name: app_mdc
+title:
+username: reglin
+account: reglin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13749872
+bundleId: 9666488
+url: https://reglin.shinyapps.io/app_mdc/
+version: 1
